@@ -15,6 +15,8 @@ At the moment I'm currently learning more about strategy, lean, kubernetes and G
 
 🔭 Idea -> Build > Measure -> Learn
 
+Current tech stack: Java11, GraphQL, Spring Boot, PostgreSQL, gRPC, Maven, GitHub, Microservices, Kubernetes & Google Cloud Platform.
+
 Have a good day!
 
 <!--
