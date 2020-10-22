@@ -6,9 +6,10 @@ So far, I have been very fortunate to experience the bad, good, ugly and pretty.
 
 Since early 2018 I have mainly focused on building GraphQL servers backed by gRPC, REST, serverless functions and async messaging.
 
-In my spare time I enjoy creating youtube videos and hopefully you enjoy them 😄!
+This led me to create and publish a free <a href="https://www.youtube.com/playlist?list=PLiwhu8iLxKwL1TU0RMM6z7TtkyW-3-5Wi">Learn GraphQL Spring Boot course</a>. I hope you enjoy it!😄
 
-https://www.youtube.com/playlist?list=PLiwhu8iLxKwL1TU0RMM6z7TtkyW-3-5Wi
+[![Learn GraphQL Spring Boot](https://img.youtube.com/vi/nju6jFW8CVw/0.jpg)](https://www.youtube.com/watch?v=nju6jFW8CVw)
+
 
 At the moment I'm currently learning more about strategy, lean, kubernetes and GCP.
 
