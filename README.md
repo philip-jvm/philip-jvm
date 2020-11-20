@@ -1,6 +1,6 @@
 ### Hi there 👋 , welcome to my github!
 
-I'm a software engineer with a passion for all things Java, Spring and GraphQL.
+I'm a lifelong learner and craftsman with a passion for all things Java, Spring and GraphQL.
 
 So far, I have been very fortunate to experience ugly (but good), pretty (but unstable), over-engineered, bizarre & excellent software systems. Ranging from legacy & gargantuan Java applications, monolith -> microservices, to greenfield internet-scale services processing billions of requests daily with rock solid uptime.
 
