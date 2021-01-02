@@ -2,10 +2,6 @@
 
 I'm a lifelong learner and craftsman with a passion for all things Java, Spring and GraphQL.
 
-So far, I have been very fortunate to experience ugly (but good), pretty (but unstable), over-engineered, bizarre & excellent software systems. Ranging from legacy & gargantuan Java applications, monolith -> microservices, to greenfield internet-scale services processing billions of requests daily with rock solid uptime.
-
-Since early 2018 I have mainly focused on building GraphQL servers backed by gRPC, REST, serverless functions and async messaging.
-
 This led me to create and publish a free <a href="https://www.youtube.com/playlist?list=PLiwhu8iLxKwL1TU0RMM6z7TtkyW-3-5Wi">Learn GraphQL Spring Boot course</a>. I hope you enjoy it!😄
 
 [![Learn GraphQL Spring Boot](https://img.youtube.com/vi/nju6jFW8CVw/0.jpg)](https://www.youtube.com/watch?v=nju6jFW8CVw)
